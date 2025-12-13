@@ -28,7 +28,7 @@ You will be using a synthetic dataset to train your CNNs. The code is already av
 #### Images with class `label 0`
 
 <p align="left"> 
-    <img width="15%" src="assets/c0_t1.png" /> 
+    <img width="15%" src="assets/c-0_t1.png" /> 
     <img width="15%" src="assets/c0_t2.png" /> 
     <img width="15%" src="assets/c0_t3.png" /> 
     <img width="15%" src="assets/c0_t4.png" /> 
